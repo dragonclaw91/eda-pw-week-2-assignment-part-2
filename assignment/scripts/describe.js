@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// On line 17 they are declaring a varible and naming the varible number also setting it's value equal to one.
+// On line 19 they are adding one to the varible number .
+// On lines 20 through 23 they are first asking if the the varible number is greater than or equal to 2. If so, line 22 should exceute. 
+//On line 22 the string yes should appear in the console if the condition is true.
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// On line 36 they are declaring a varible refered to as name and setting it's value = the string Dane.
+// On line 38 we are checking if the varible name is exactly equal to the string Mary
+// if Line 38 is true then on line 39  console.log('Hi, Mary!') will execute.
+//if line 38 is false console.log('How do you do?') will execute
 
 //CODE
 /*
@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// On line 55 they are declaring a varible named secret 
+//On line 57 defineing a varible naming it code and giving it a value of 123
+// On line 59 they are checking if the value of the varible code is equal to 123
+//On lines 60 -61 if the varible code is equal to 123, then the value of secret is equal to the string super.And the code gets doubled in value.
+//they then console log secret
 
 //CODE
 /*
@@ -129,11 +130,13 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
-/*
+/* colorOne should be equal to blue,and color 2 should be set to red
+ColorOne = "blue",colorTwo = "red"
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
-
+colorTwo should be set to purple as well
+colorTwo = "purple"
 if (mix === true) {
   colorOne = 'purple';
 }
@@ -146,7 +149,8 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+That is checking if the tem is greater than 39 OR the time is greater than or equal to 4.
+should be if(temp > 39 && time >=4)
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -159,7 +163,8 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-
+That is checking if the minAge is less than or equal to 21.
+should be if(minAge >= 21)
 if(minAge <= age) {
   console.log('no entry');
 } else {
