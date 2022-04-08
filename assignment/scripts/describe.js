@@ -72,9 +72,10 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // On line 55 they are declaring a varible named secret 
 //On line 57 defineing a varible naming it code and giving it a value of 123
-// On line 59 they are checking if the value of the varible code is equal to 123
-//On lines 60 -61 if the varible code is equal to 123, then the value of secret is equal to the string super.And the code gets doubled in value.
-//they then console log secret
+/* On line 59 they are checking if the value of the varible code is equal to 123
+/* This being the case the seceret varaible becomes equal to the string super. And the code value get multipied by 2 making it's new value 246.
+//On lines 60 -61 if the varible code is greater than 250 this line of code is ignored being that it is false.
+//they then console log secret which will display the string super.
 
 //CODE
 /*
