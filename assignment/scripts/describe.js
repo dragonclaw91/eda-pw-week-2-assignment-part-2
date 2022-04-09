@@ -48,7 +48,7 @@ if (name === 'Mary') {
 // On line 36 they are declaring a varible refered to as name and setting it's value = the string Dane.
 // On line 38 we are checking if the varible name is exactly equal to the string Mary
 // if Line 38 is true then on line 39  console.log('Hi, Mary!') will execute.
-//if line 38 is false console.log('How do you do?') will execute
+//if line 38 is false console.log('How do you do?') will execute and in this case How do you do? would be displayed in the console.
 
 //CODE
 /*
